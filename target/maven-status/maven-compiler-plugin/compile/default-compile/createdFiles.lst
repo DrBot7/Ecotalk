@@ -1,0 +1,5 @@
+org\acornmc\ecotalk\DiscordSRVListener.class
+org\acornmc\ecotalk\PlayerChatListener.class
+org\acornmc\ecotalk\EconUtil.class
+org\acornmc\ecotalk\Ecotalk.class
+org\acornmc\ecotalk\EventsPlayerJoin.class

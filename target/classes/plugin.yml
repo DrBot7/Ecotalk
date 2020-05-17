@@ -1,0 +1,5 @@
+name: Ecotalk
+version: 3.0.0
+main: org.acornmc.ecotalk.Ecotalk
+api-version: 1.15
+authors: [DrBot]

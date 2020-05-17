@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.discordsrv:discordsrv:1.19.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/discordsrv/discordsrv/1.19.0-SNAPSHOT/discordsrv-1.19.0-20200515.144320-176.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/discordsrv/discordsrv/1.19.0-SNAPSHOT/discordsrv-1.19.0-20200515.144320-176-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/discordsrv/discordsrv/1.19.0-SNAPSHOT/discordsrv-1.19.0-20200515.144320-176-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

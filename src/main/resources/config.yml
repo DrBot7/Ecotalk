@@ -1,0 +1,8 @@
+# Cooldown between messages that can be rewarded
+cooldown: 15
+
+# Should Ecotalk allow Discord messages to be rewarded? This requires DiscordSRV.
+discord: true
+
+# How much money should Ecotalk give each time someone sends a valid message?
+money: 1.00
