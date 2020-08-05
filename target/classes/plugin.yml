@@ -1,5 +1,7 @@
 name: Ecotalk
-version: 3.0.0
+version: 3.0.2-SNAPSHOT
 main: org.acornmc.ecotalk.Ecotalk
 api-version: 1.15
 authors: [DrBot]
+depend: [Vault]
+softdepend: [DiscordSRV]

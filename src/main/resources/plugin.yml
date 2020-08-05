@@ -3,3 +3,5 @@ version: ${project.version}
 main: org.acornmc.ecotalk.Ecotalk
 api-version: 1.15
 authors: [DrBot]
+depend: [Vault]
+softdepend: [DiscordSRV]
